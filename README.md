@@ -1,6 +1,6 @@
 # Wilt - JetBrains IntelliJ IDEA Theme
 
-If you enjoy really dark themes that filter out syntactical noise, it might be worth giving this a try.
+If you enjoy *actually* dark themes that filter out syntactical noise, it might be worth giving this a try.
 
 ![Demo](https://raw.githubusercontent.com/thinnerthinker/jetbrains-wilt-theme/main/docs/full2.png)
 
